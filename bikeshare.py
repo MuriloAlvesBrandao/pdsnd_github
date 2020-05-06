@@ -29,7 +29,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month = input("\nWould you like to see the data for which month between January and June? If you want to see the whole data from January to June, type 'all': ") .lower()
+        month = input("\nWould you like to see the data for which month between january and june? If you want to see the whole data from january to june, type 'all': ") .lower()
         if month not in ('all', 'january', 'february', 'march', 'april', 'may', 'june'): 
            print("\nSorry, i could not recognize your input, please type the name of one specific month (or 'all') with the correct spelling (i only have data from the first six months, so please dont type the name of a month that is in the second semester of the year).")
         else:   
