@@ -13,3 +13,10 @@ The files used at the project are bikeshare.py, chicago.csv, new_york_city.csv a
 ### Requirements
 Make sure you have python installed in you local machine, a text editor - like Atom or Visual Studio Code - and a terminal application.
 
+### Credits
+The following websites helped me to create the project:
+
+* [Pandas Documentation](https://pandas.pydata.org/docs/pandas.pdf)
+* [Stackoverflow](https://stackoverflow.com/questions)
+
+Also, the review made by Udacity's reviewer at my "Explore US Bikeshare Data" project, in the Udacity's "Programming for Data Science with Python" course, helped me a lot in improving my project to its final version.    
