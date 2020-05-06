@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created at 04/26/2020.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data.
 
 ### Description
-Describe what your project is about and what it does
+This project creates a interactive environment where users can use inputs to explore the data of 03 csv files, containing data collected in three US cities by a bikeshare company: Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+The files used at the project are bikeshare.py, chicago.csv, new_york_city.csv and washington.csv.
+
+### Requirements
+Make sure you have python installed in your local machine, a text editor - like Atom or Visual Studio Code - and a terminal application.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following websites helped me to create the project:
 
+* [Pandas Documentation;](https://pandas.pydata.org/docs/pandas.pdf)
+* [Stackoverflow.](https://stackoverflow.com/questions)
+
+Also, the review made by Udacity's reviewer at my "Explore US Bikeshare Data" project, in the Udacity's "Programming for Data Science with Python" course, helped me to improve my project to its final version.    
